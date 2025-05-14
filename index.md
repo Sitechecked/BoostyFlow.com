@@ -1,5 +1,5 @@
 ---
-title: Scam Alert Report: BoostyFlow.com
+title: "Scam Alert Report: BoostyFlow.com"
 layout: default
 ---
 
