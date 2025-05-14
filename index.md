@@ -2,6 +2,7 @@
 title: "Scam Alert Report: BoostyFlow.com"
 layout: default
 ---
+# 🚨 Scam Alert Report: BoostyFlow.com
 
 > BoostyFlow.com is a suspicious investment platform that operates without a license and regulatory oversight. This report outlines red flags and important information for protecting potential victims.
 
